@@ -32,9 +32,9 @@ inputName.addEventListener('change', function(){
     }
 });
 
-async function showMess(){
-    statusNode.addEventListener('click', function(){
-        statusNode.style.display = 'none';
-        contentContainer.classList.add('showFlex')
-    })
-}
+// async function showMess(){
+//     statusNode.addEventListener('click', function(){
+//         statusNode.style.display = 'none';
+//         contentContainer.classList.add('showFlex')
+//     })
+// }
