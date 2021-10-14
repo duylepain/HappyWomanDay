@@ -26,7 +26,7 @@ inputName.addEventListener('change', function(){
             checkName.style.visibility = "visible"
         }else{
             btnClick();
-            showMess()
+//             showMess();
             
         }
     }
